@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/somVoa.ogg-9fdeea4dd2a3884366fd97a9f37ef57b.oggstr"
+
+[deps]
+
+source_file="res://sound/somVoa.ogg"
+source_md5="864467bc65e11e7751d7b805966d0f03"
+
+dest_files=[ "res://.import/somVoa.ogg-9fdeea4dd2a3884366fd97a9f37ef57b.oggstr" ]
+dest_md5="8d947fc72898cd0f5de8192d955601d9"
+
+[params]
+
+loop=false
+loop_offset=0
